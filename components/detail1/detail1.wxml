@@ -1,0 +1,41 @@
+<!--components/detail1/detail1.wxml-->
+<view class='box'>
+<view class='left'>
+
+<image src='../../img/26.png'></image>
+</view>
+<view class='right'>
+<view class='one'>
+糖潮量贩式KTV(华润五彩城购物中心店)
+</view>
+<view class='two'>
+<view class='star'>
+<image src='../../img/star.png'></image>
+<image src='../../img/star.png'></image>
+<image src='../../img/star.png'></image>
+<image src='../../img/star.png'></image>
+<image src='../../img/unstar.png'></image>
+
+</view>
+<view class='num'>
+559条 ￥41/人
+</view>
+</view>
+<view class='three'>
+口味:7.8 环境：8.3 服务：8.1
+</view>
+<view class='four'>
+上地  快餐简餐
+
+</view>
+</view>
+</view>
+<view class='time'>
+<image src='../../img/time.png'></image>
+<view>营业至21:00</view>
+<image src='../../img/wifi.png'></image>
+<view>WIFI</view>
+<image src='../../img/part.png'></image>
+<view>停车场</view>
+<image src='../../img/24.png' class='letter' style='margin-left:200rpx;'></image>
+</view>

@@ -1,0 +1,61 @@
+/* pages/address1/address1.wxss */
+#address{
+background: #E2E2E2;
+width: 100%;
+height: 100%;
+position: relative;
+}
+#address>view:nth-of-type(1){
+  padding: 25rpx;
+  font-size: 24rpx;
+  border: 1rpx #E2E2E2 solid;
+  background: white;
+}
+#address>view:nth-of-type(1) text{
+color: #E2E2E2;
+  font-size: 20rpx;
+  display: inline-block;
+  padding-left: 18rpx;
+}
+#address>view:nth-of-type(2){
+padding: 18rpx;
+padding-right: 50rpx;
+}
+#address>view:nth-of-type(2) view{
+justify-content: space-between;
+ display: flex;
+flex-wrap: wrap;
+margin-top: 20rpx;
+}
+.hotCity{
+  display: inline-block;
+  background: white;
+  /* width: 150rpx; */
+  padding: 20rpx 70rpx;
+margin-bottom: 10rpx;
+
+}
+.zi>view:nth-of-type(1){
+  color: #9B9B9B;
+  padding-left: 18rpx
+}.zi>view:nth-of-type(2){
+  background: white;
+  padding-left: 18rpx
+}
+.city{
+  padding: 18rpx 0;
+  border-bottom: 1rpx #E2E2E2 solid;
+
+}
+.ding{
+  position: fixed;
+  top: 180rpx;
+  right: 5rpx;
+
+}
+.ding>view{
+  color: #60646D;
+  font-size: 20rpx;
+  text-align: center;
+  margin-bottom: 7rpx;
+}

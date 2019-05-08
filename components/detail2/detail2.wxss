@@ -1,0 +1,180 @@
+/* components/detail2/detail2.wxss */
+.place{
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+  margin-top: 30rpx;
+}
+.left{
+  width: 545rpx;
+  height: 100%;
+
+}
+.right{
+    width: 200rpx;
+  height: 100%;
+  line-height: 200rpx;
+  text-align: center;
+}
+.one{
+  width: 100%;
+  height: 90rpx;
+  display: flex;
+
+}
+.one image{
+  width: 35rpx;
+  height: 35rpx;
+}
+.one view{
+  font-size: 35rpx;
+  margin-left: 30rpx;
+}
+.two{
+  width: 400rpx;
+  height: 60rpx;
+  font-size: 25rpx;
+  line-height: 60rpx;
+  margin-left: 60rpx;
+}
+.right image{
+  width: 50rpx;
+  height: 70rpx;
+}
+.hui{
+  width: 100%;
+  height: 30rpx;
+  background-color: gainsboro;
+}
+.good{
+  width: 100%;
+  height: 120rpx;
+  display: flex;
+  line-height: 120rpx;
+  align-items: center;
+}
+.pic{
+  width: 50rpx;
+  height: 50rpx;
+}
+.good view{
+  font-size: 30rpx;
+}
+.back{
+  width: 30rpx;
+  height: 30rpx;
+  margin-left: 200rpx;
+}
+.zi{
+  margin-left: 50rpx;
+}
+.ti{
+  margin-left: 30rpx;
+}
+.color{
+  color: orangered;
+}
+.tuan{
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+  border-bottom: 1px solid gainsboro;
+}
+.zuo{
+  width: 230rpx;
+  height: 100%;
+  display: flex;
+}
+.f{
+  width: 60rpx;
+  height: 50rpx;
+  margin-top: 10rpx;
+}
+.p{
+  width: 150rpx;
+  height: 150rpx;
+margin-top: 30rpx;
+margin-left: 20rpx;
+}
+.top{
+  width: 500rpx;
+  height: 70rpx;
+  display: flex;
+  align-items: center;
+  line-height: 70rpx;
+  margin-left: 20rpx;
+  margin-top: 30rpx;
+  justify-content: space-between;
+}
+.title{
+  width: 300rpx;
+  height: 100%;
+  font-size: 30rpx;
+  font-weight: 600;
+  overflow: hidden;
+    white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.num{
+  width: 180rpx;
+  height: 100%;
+  font-size: 30rpx;
+  color: gainsboro;
+  margin-left: 60rpx;
+}
+.down{
+  width: 300rpx;
+  height: 60rpx;
+  display: flex;
+  margin-left: 20rpx;
+  line-height: 60rpx;
+align-items: center;
+}
+.price{
+  font-size: 36rpx;
+  color: orange;
+}
+.money{
+  font-size: 30rpx;
+  color: gainsboro;
+}
+.s{
+  width: 150rpx;
+  height: 150rpx;
+  margin-left: 80rpx;
+  margin-top: 30rpx;
+}
+.look{
+  width: 500rpx;
+  height: 60rpx;
+  margin-left: 260rpx;
+  display: flex;
+  font-size: 27rpx;
+  align-items: center;
+}
+.look image{
+  width: 30rpx;
+  height: 20rpx
+}
+.foot{
+  width: 500rpx;
+  height: 100rpx;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 30rpx;
+}
+.marto{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.marto image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.g{
+  margin-top: 20rpx;
+}

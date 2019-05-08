@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "head":"/components/detail1/detail1",
+    "body": "/components/detail2/detail2"
+  }
+}

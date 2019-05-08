@@ -1,0 +1,4 @@
+<!--pages/homes/homes.wxml-->
+<head></head>
+<title></title>
+<list list='{{list}}'></list>

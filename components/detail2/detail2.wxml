@@ -1,0 +1,74 @@
+<view class='place'>
+<view class='left'>
+<view class='one'>
+<image src='../../img/place.png'></image>
+<view>上地十街辉煌国际西6号楼地上1-2楼</view>
+</view>
+<view class='two'>
+距您步行60米，需要一分钟
+</view>
+</view>
+<view class='right'>
+<image src='../../img/phone.png'></image>
+</view>
+</view>
+<view class='hui'></view>
+<view class='good'>
+<image src='../../img/20.png' class='pic'></image>
+<view class='zi'>
+[上地小吃快餐热门榜]
+</view>
+<view class='ti'>第</view>
+<view class='color'>1</view>
+<view>名</view>
+<image src='../../img/24.png' class='back'></image>
+</view>
+<view class='hui'></view>
+
+<view class='tuan'>
+<view class='zuo'>
+<image src='../../img/21.png' class='f'></image>
+<image src='../../img/25.png' class='p'></image>
+
+</view>
+<view class='detail'>
+<view class='top'>
+<view class='title'>单人商务快餐,提供免费WIFI</view>
+<view class='num'>已售：6</view>
+</view>
+<view class='down'>
+<view class='price'>￥35</view>
+<view class='money'>￥57</view>
+</view>
+</view>
+</view>
+<view class='tuan'>
+<view class='zuo'>
+<image src='../../img/25.png' class='s'></image>
+</view>
+<view class='detail'>
+<view class='top'>
+<view class='title'>单人商务快餐,提供免费WIFI</view>
+<view class='num'>已售：6</view>
+</view>
+<view class='down'>
+<view class='price'>￥35</view>
+<view class='money'>￥57</view>
+</view>
+</view>
+</view>
+<view class='look'>
+<view>查看其他4个团购</view>
+<image src='../../img/down.png'></image>
+</view>
+<view class='foot'>
+<view class='marto'>
+<image src='../../img/22.png'></image>
+<view>收藏</view>
+</view>
+<view class='g'>|</view>
+<view class='marto'>
+<image src='../../img/23.png'></image>
+<view>写点评</view>
+</view>
+</view>

@@ -1,0 +1,15 @@
+<!--components/home/home.wxml-->
+<view class='box'>
+<view class='place'>
+<view bindtap='address'>北京</view>
+<image src='../../img/down.png' ></image>
+</view>
+<view class='serch'>
+<image src='../../img/serch.png'></image>
+<input placeholder='输入商户名，地点，找优惠'></input>
+</view>
+<view class='user'>
+<image src='../../img/my.png'></image>
+<view>我的</view>
+</view>
+</view>

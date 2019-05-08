@@ -1,0 +1,66 @@
+<view class='box'>
+<view class='title'>
+<image src='../../img/4.png'></image>
+<view>美食</view>
+</view>
+<view class='title'>
+<image src='../../img/5.png'></image>
+<view>外卖</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='title'>
+<image src='../../img/3.png'></image>
+<view>娱乐休闲</view>
+</view>
+<view class='lititle'>
+<image src='../../img/8.png'></image>
+<view>到家服务</view>
+</view>
+<view class='lititle'>
+<image src='../../img/8.png'></image>
+<view>到家服务</view>
+</view>
+<view class='lititle'>
+<image src='../../img/8.png'></image>
+<view>到家服务</view>
+</view>
+<view class='lititle'>
+<image src='../../img/8.png'></image>
+<view>到家服务</view>
+</view>
+<view class='lititle'>
+<image src='../../img/8.png'></image>
+<view>到家服务</view>
+</view> 
+</view>
+<view class='pic'>
+<image src='../../img/9.png'></image>
+<image src='../../img/10.png'></image>
+</view>

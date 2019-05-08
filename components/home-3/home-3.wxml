@@ -1,0 +1,30 @@
+<view class='box'>
+<view class='title'>猜你喜欢</view>
+<view class='content' wx:for='{{list}}' wx:key='index' bindtap='detail'>
+<view class='left'>
+<image src='https://www.koocv.com{{item.image_path}}'></image>
+</view>
+<view class='right'>
+<view class='one'>
+<view class='name'>{{item.title}}</view>
+<view class='farm'>
+小于{{item.distance}}m
+</view>
+</view>
+<view class='two'>
+{{item.label}}
+</view>
+<view class='three'>
+<view class='money'>
+<view class='price'>
+￥{{item.price-item.score}}
+</view>
+<view class='die'>￥{{item.price}}</view>
+</view>
+<view class='num'>
+已售{{item.view}}
+</view>
+</view>
+</view>
+</view>
+</view>

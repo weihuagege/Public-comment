@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/homes/homes",
+    "pages/topics1/topics1",
+    "pages/address1/address1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

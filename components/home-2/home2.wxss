@@ -1,0 +1,38 @@
+.box{
+  width: 100%;
+  height: 400rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.title{
+  width: 100rpx;
+  height: 100rpx;
+  text-align: center;
+  margin-left: 30rpx;
+  font-size: 25rpx;
+}
+.title image{
+width: 70%;
+height: 70%;
+}
+.pic{
+  width: 100%;
+  height: 260rpx;
+text-align: center;
+}
+.pic image{
+  width: 90%;
+  height: 120rpx;
+} 
+.lititle{
+  width: 100rpx;
+  height: 100rpx;
+  font-size: 25rpx;
+  text-align: center;
+  margin-left: 30rpx;
+}
+.lititle image{
+  width: 50%;
+  height: 50rpx;
+}

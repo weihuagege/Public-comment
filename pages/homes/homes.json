@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "head":"/components/home-1/home",
+    "title":"/components/home-2/home2",
+    "list":"/components/home-3/home-3"
+  }
+}
