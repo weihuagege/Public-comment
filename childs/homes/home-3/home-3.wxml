@@ -1,0 +1,19 @@
+<view class='left'>
+<view>
+<view>热销榜</view>
+</view>
+<view>
+<image src='/img/te.png'></image>
+<view>单人特色套餐</view>
+</view>
+<view>
+<view>特色粥品</view>
+</view>
+<view>精选热菜</view>
+<view>爽口凉菜</view>
+<view>半成品</view>
+<view>饭类</view>
+<view>面类</view>
+
+</view>
+

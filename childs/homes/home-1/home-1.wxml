@@ -1,0 +1,33 @@
+<view class='box bg-blur' style="background: url('../../../img/11.png');">
+
+</view>
+<view class='bg' style='background-color:rgba(0,0,0,0,5)'>
+<view class='content'>
+<view class='img'>
+<image src='/img/2-8.png'></image>
+
+</view>
+<view class='tit'>
+<view class='up'>
+<view class='pp'>品牌</view>
+<view class='name'>粥铺厢房 (大悦城乡)</view>
+</view>
+<view class='cent'>
+蜂鸟专送 \ 38分钟到达
+</view>
+<view class='down'>
+<image src='/img/jian.png'></image>
+<view>在线支付满28减5，满50减10</view>
+</view>
+<view class='num'>
+<view>5 个</view>
+<image src='/img/r.png'></image>
+</view>
+</view>
+</view>
+<view class='report'>
+<image src='/img/g.png'></image>
+<view>发生飞洒飞洒方法随机理收费方式会士大夫发的覅是...</view>
+<image src='/img/r.png' style='width:20rpx;height:20rpx;marin-left:30rpx;'></image>
+</view>
+</view>

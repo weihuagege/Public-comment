@@ -1,0 +1,8 @@
+.box{
+  width: 100%;
+  min-height: 900rpx;
+  position: fixed;
+  top: 450rpx;
+  display: flex;
+  
+}

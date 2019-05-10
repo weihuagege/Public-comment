@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "head":"/childs/homes/home-1/home-1",
+    "class": "/childs/homes/home-2/home-2",
+    "body": "/childs/homes/home-3/home-3",
+    "right": "/childs/homes/home-4/home-4"
+  }
+}

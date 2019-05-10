@@ -1,8 +1,6 @@
 {
   "pages": [
-    "pages/homes/homes",
-    "pages/topics1/topics1",
-    "pages/address1/address1"
+    "father/home/home"
   ],
   "window": {
     "backgroundTextStyle": "light",

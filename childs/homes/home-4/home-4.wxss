@@ -1,0 +1,73 @@
+.rt{
+  width: 520rpx;
+  height: 100%;
+  overflow: auto;
+}
+.boxs{
+  width: 100%;
+  min-height:300rpx; 
+}
+.title{
+  width: 100%;
+  height: 60rpx;
+}
+.content{
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+  position: relative;
+}
+.img{
+  width: 100rpx;
+  height: 100rpx;
+  margin-left: 30rpx;
+  margin-top: 30rpx;
+
+}
+.img image{
+  width: 100%;
+  height: 100%;
+}
+.all{
+  width: 270rpx;
+  height: 150rpx;
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+}
+.one{
+  width: 100%;
+  height: 40rpx;
+  font-size: 25rpx;
+  font-weight: 600;
+}
+.two{
+  font-size: 25rpx;
+}
+.three{
+  font-size: 25rpx;
+}
+.four{
+  width: 100%;
+  height: 60rpx;
+  display: flex;
+  font-size: 25rpx;
+}
+.red{
+  color: red;
+}
+.grey{
+  color: gray;
+}
+.add{
+  width: 50rpx;
+  height: 50rpx;
+  border-radius:50%;
+  background-color: deepskyblue;
+  text-align: center;
+  line-height: 50rpx;
+  color: white;
+  font-size: 30rpx; 
+  position: absolute;
+  top: 100rpx;
+  right: 0rpx;
+}

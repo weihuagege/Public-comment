@@ -1,0 +1,54 @@
+<view class='rt'>
+<view class='boxs'>
+<view class='title'>
+单人特色套餐
+</view>
+<view class='content'>
+<view class='img'>
+<image src='/img/food.png'></image>
+</view>
+<view class='all'>
+<view class='one'>皮蛋瘦肉粥配包子早晨</view>
+<view class='two'>咸粥</view>
+<view class='three'>月售1132份  好评率100%</view>
+<view class='four'>
+<view class='red'>￥24</view>
+<view class='grey'>￥28</view>
+</view>
+
+</view>
+<view class='add'>+</view>
+</view>
+<view class='content'>
+<view class='img'>
+<image src='/img/food.png'></image>
+</view>
+<view class='all'>
+<view class='one'>皮蛋瘦肉粥配包子早晨</view>
+<view class='two'>咸粥</view>
+<view class='three'>月售1132份  好评率100%</view>
+<view class='four'>
+<view class='red'>￥24</view>
+<view class='grey'>￥28</view>
+</view>
+
+</view>
+<view class='add'>+</view>
+</view>
+<view class='content'>
+<view class='img'>
+<image src='/img/food.png'></image>
+</view>
+<view class='all'>
+<view class='one'>皮蛋瘦肉粥配包子早晨</view>
+<view class='two'>咸粥</view>
+<view class='three'>月售1132份  好评率100%</view>
+<view class='four'>
+<view class='red'>￥24</view>
+<view class='grey'>￥28</view>
+</view>
+</view>
+<view class='add'>+</view>
+</view>
+</view>
+</view>

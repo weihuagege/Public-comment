@@ -4,18 +4,17 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
-		"autoAudits": false,
-		"checkInvalidKey": true
+		"autoAudits": false
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
 	"appid": "wxb1e389eb21246839",
-	"projectname": "Public-commentt",
+	"projectname": "%E5%A6%AE%E5%A6%AE%E5%A4%96%E5%8D%96",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

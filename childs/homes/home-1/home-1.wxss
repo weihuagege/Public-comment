@@ -1,0 +1,129 @@
+.box{
+  width: 100%;
+  height: 320rpx;
+  /* background-color: rgba(red, green, blue, alpha) */
+background-size: 100% 100%;
+position: fixed;
+/* position: relative; */
+border: 1px solid black;
+}
+.bg-blur {
+            float: left;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            -webkit-filter: blur(10px);
+            -moz-filter: blur(10px);
+            -o-filter: blur(10px);
+            -ms-filter: blur(10px);
+            filter: blur(10px);
+        }
+        .bg{
+          width: 100%;
+          height: 320rpx;
+          top: 0;
+          left: 0;
+          position: absolute;
+          background-color: rgba(0, 0, 0,0.5)
+        }
+.content{
+  width: 100%;
+  height: 50%;
+  margin-top: 40rpx;
+  display: flex;
+  position: relative;
+}
+.img image{
+  width: 170rpx;
+  height: 100%;
+  margin-left: 50rpx;
+}
+.tit{
+  width: 500rpx;
+  height: 100%;
+  margin-left: 20rpx;
+}
+
+.up{
+  width: 100%;
+  height: 70rpx;
+display: flex;
+}
+.cent{
+   width: 80%;
+  height: 50rpx;
+  color: white;
+  font-size: 25rpx;
+  line-height: 50rpx;
+  margin-left: 20rpx;
+}
+.down{
+   width: 80%;
+  height: 50rpx;
+  display: flex;
+  align-items: center;
+  margin-left: 20rpx;
+}
+.pp{
+  width: 70rpx;
+  height: 50rpx;
+  font-size: 27rpx;
+  font-weight: 600;
+  text-align: center;
+  line-height: 50rpx;
+  color: white;
+  margin-top: 10rpx;
+  margin-left: 20rpx;
+  background-color: red;
+}
+.name{
+  color: white;
+  font-weight: 600;
+  margin-top: 5rpx;
+  margin-left: 10rpx;
+}
+.down image{
+  width: 30rpx;
+  height: 30rpx;
+}
+.down view{
+  color: white;
+  font-size: 25rpx;
+}
+.num{
+  position: absolute;
+  top:125rpx;
+  right: 20rpx;
+  width: 90rpx;
+  height: 40rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(0, 0, 0,0.3);
+  border-radius:20rpx; 
+}
+.num image{
+  width: 20rpx;
+  height: 20rpx;
+}
+.num view{
+  font-size: 20rpx;
+  color: white;
+}
+.report{
+  width: 100%;
+  height: 60rpx;
+  margin-top: 60rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.report image{
+  width: 60rpx;
+  height: 40rpx;
+}
+.report view{
+  font-size: 27rpx;
+  color: white;
+}
